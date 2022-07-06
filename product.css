@@ -1,0 +1,56 @@
+.product1{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+.left-side1{
+    /* height: auto; */
+    height: 200px;
+    border: 1px solid black;
+    width : 200px;
+    text-align: center;
+    background-color: rgb(99, 158, 158);
+    margin-top: 10px;  
+ }
+.left-side{
+   height: auto;
+   width : 500px;
+   display: flex;
+   flex-wrap:wrap;
+}
+.box{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    color: rgb(15, 14, 14);
+}
+.btn1{
+    margin-top: 10px;
+}
+#img-1{
+    background-image: url(bat.jpg);
+    background-size: cover;
+}
+#img-2{
+    background-image: url(ball.jpg);
+    background-size: cover;
+}
+#img-3{
+    background-image: url(stump1.jpg);
+    background-size: cover;
+}
+#img-4{
+    background-image: url(gloves.jpg);
+    background-size: cover;
+}
+#img-5{
+    background-image: url(pad.jpg);
+    background-size: cover;
+}
+#img-6{
+    background-image: url(helmet2.jpg);
+    background-size: cover; 
+}
